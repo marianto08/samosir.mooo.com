@@ -1,0 +1,11 @@
+{
+  "settings": [
+    {
+      "provider": "freedns",
+      "domain": "samosir.mooo.com",
+      "token": "https://freedns.afraid.org/dynamic/update.php?S3M5aGg2UDByQzZzY2M0YXVQREdUcVNOOjIzNzkwNDU0",
+      "ip_version": "185.199.109.153",
+      "ipv6_suffix": "2606:50c0::153"
+    }
+  ]
+}
